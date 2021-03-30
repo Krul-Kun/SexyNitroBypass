@@ -1,13 +1,13 @@
-//META{"name":"NitroBypass","source":"https://github.com/Krul-Kun/NitroBypass","website":"https://github.com/Krul-Kun"}*//
-class NitroBypass {
+//META{"name":"SexyNitroBypass","source":"https://github.com/Krul-Kun/SexyNitroBypass","website":"https://github.com/Krul-Kun"}*//
+class SexyNitroBypass {
     getName() {
-        return "NitroBypass";
+        return "SexyNitroBypass";
     }
     getDescription() {
         return "free nitro for 2youras just like you";
     }
     getVersion() {
-        return "1.0";
+        return "6.9";
     }
     getAuthor() {
         return "Krul-Kun";
