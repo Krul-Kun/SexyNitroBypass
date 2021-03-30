@@ -68,6 +68,10 @@ yes that is a hentai face if you are wondering you stalker :okay_gunchamp: wtf a
                                 BdApi.findModuleByProps("instantBatchUpload").instantBatchUpload(curChannel, [new File([blob], 'oSumAtrIX.' + ext, blob)]);
                             }
 
+
+/* https://imgur.com/a/cua6mDm */
+
+
                             var txtBar = $(".textArea-12jD-V")[0];
                             if (txtBar.children.length != 1) {
                                 url = url + "?size=40";
